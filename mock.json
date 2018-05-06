@@ -1,0 +1,27 @@
+[
+  {
+    "id": "--1",
+    "title": "Title #1",
+    "color": "success"
+  }, {
+    "id": "--2",
+    "title": "Card #2",
+    "color": "info"
+  }, {
+    "id": "--3",
+    "title": "Text #3",
+    "color": "warning"
+  }, {
+    "id": "--4",
+    "title": "Test #4",
+    "color": "danger"
+  }, {
+    "id": "--5",
+    "title": "Item #5",
+    "color": "dark"
+  }, {
+    "id": "--6",
+    "title": "New #6",
+    "color": "primary"
+  }
+]
