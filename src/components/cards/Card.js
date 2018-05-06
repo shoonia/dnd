@@ -29,7 +29,8 @@ Card.propTypes = {
   index: PropTypes.number.isRequired,
   moveCard: PropTypes.func.isRequired,
   connectDropTarget: PropTypes.func.isRequired,
-  connectDragSource: PropTypes.func.isRequired
+  connectDragSource: PropTypes.func.isRequired,
+  isDragging: PropTypes.bool.isRequired
 };
 
 /**

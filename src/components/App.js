@@ -14,7 +14,7 @@ class App extends React.PureComponent {
     fetchAll(this.requestDone);
   }
 
-  requestDone = (error, cards = {}) =>
+  requestDone = (error, cards = []) =>
     this.setState({ error, cards });
 
   render() {
